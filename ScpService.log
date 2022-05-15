@@ -1,0 +1,133 @@
+2022-05-10 15:12:49.985 ++ C:\Users\MariN\OneDrive\Escritorio\ScpServer\bin\ScpService.exe 1.2.0.160
+2022-05-10 15:12:49.985 ++ C:\Users\MariN\OneDrive\Escritorio\ScpServer\bin\ScpControl.dll 1.2.0.160
+2022-05-10 15:12:53.032 ++ Microsoft Windows 11 Home Single Language (6.2.9200.0 AMD64)
+2022-05-10 15:12:53.032 -- Bus Open   : Offset 0
+2022-05-10 15:12:53.032 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2022-05-10 15:12:53.060 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-05-10 15:12:53.082 -- Controller : UDP_Worker_Thread Starting
+2022-05-10 19:51:26.978 ++ Suspended
+2022-05-10 20:01:46.692 ++ Resumed
+2022-05-10 20:08:21.304 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-10 20:08:21.305 -- DS3 Arrival Event
+2022-05-10 20:08:21.312 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-10 20:08:21.314 -- Bus Plugin : Serial 1
+2022-05-10 20:08:21.314 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-10 20:08:21.318 -- USB Device : HID_Worker_Thread Starting
+2022-05-10 20:08:21.318 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-10 21:30:16.646 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-10 21:30:16.647 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-10 21:30:16.648 -- USB Device : HID_Worker_Thread Exiting
+2022-05-10 22:36:45.365 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-10 22:36:45.365 -- DS3 Arrival Event
+2022-05-10 22:36:45.367 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-10 22:36:45.367 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-10 22:36:45.368 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-10 22:36:45.368 -- USB Device : HID_Worker_Thread Starting
+2022-05-11 00:17:47.136 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-11 00:17:47.136 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-11 00:17:47.137 -- USB Device : HID_Worker_Thread Exiting
+2022-05-11 01:29:49.165 -- Bus Unplug : Serial 1
+2022-05-11 01:29:49.165 ++ Suspended
+2022-05-11 08:39:43.410 ++ Resumed
+2022-05-11 08:39:43.410 -- Bus Plugin : Serial 1
+2022-05-11 13:53:34.509 -- Bus Unplug : Serial 1
+2022-05-11 13:53:34.510 ++ Suspended
+2022-05-11 23:25:16.494 ++ Resumed
+2022-05-11 23:25:16.494 -- Bus Plugin : Serial 1
+2022-05-11 23:36:03.505 -- Bus Unplug : Serial 1
+2022-05-11 23:36:03.505 ++ Suspended
+2022-05-11 23:38:00.445 ++ Resumed
+2022-05-11 23:38:00.446 -- Bus Plugin : Serial 1
+2022-05-12 03:10:07.222 -- Bus Unplug : Serial 1
+2022-05-12 03:10:07.223 ++ Suspended
+2022-05-12 03:11:18.399 ++ Resumed
+2022-05-12 03:11:18.400 -- Bus Plugin : Serial 1
+2022-05-12 03:37:43.110 -- Bus Unplug : Serial 1
+2022-05-12 03:37:43.110 ++ Suspended
+2022-05-12 03:57:30.407 ++ Resumed
+2022-05-12 03:57:30.408 -- Bus Plugin : Serial 1
+2022-05-12 04:17:46.427 -- Bus Unplug : Serial 1
+2022-05-12 04:17:46.428 ++ Suspended
+2022-05-12 04:37:13.391 ++ Resumed
+2022-05-12 04:37:13.391 -- Bus Plugin : Serial 1
+2022-05-12 04:57:30.967 -- Bus Unplug : Serial 1
+2022-05-12 04:57:30.968 ++ Suspended
+2022-05-12 05:16:54.378 ++ Resumed
+2022-05-12 05:16:54.378 -- Bus Plugin : Serial 1
+2022-05-12 05:37:12.291 -- Bus Unplug : Serial 1
+2022-05-12 05:37:12.292 ++ Suspended
+2022-05-12 09:12:26.082 ++ Resumed
+2022-05-12 09:12:26.083 -- Bus Plugin : Serial 1
+2022-05-13 00:43:45.665 -- Bus Unplug : Serial 1
+2022-05-13 00:43:45.668 ++ Suspended
+2022-05-13 08:35:52.673 ++ Resumed
+2022-05-13 08:35:52.673 -- Bus Plugin : Serial 1
+2022-05-13 08:46:04.357 -- Bus Unplug : Serial 1
+2022-05-13 08:46:04.357 ++ Suspended
+2022-05-13 08:50:55.430 ++ Resumed
+2022-05-13 08:50:55.445 -- Bus Plugin : Serial 1
+2022-05-13 10:47:10.259 -- Bus Unplug : Serial 1
+2022-05-13 10:47:10.259 ++ Suspended
+2022-05-13 10:52:44.446 ++ Resumed
+2022-05-13 10:52:44.446 -- Bus Plugin : Serial 1
+2022-05-13 14:42:57.561 -- Bus Unplug : Serial 1
+2022-05-13 14:42:57.561 ++ Suspended
+2022-05-13 15:05:32.407 ++ Resumed
+2022-05-13 15:05:32.408 -- Bus Plugin : Serial 1
+2022-05-13 18:37:49.837 -- Bus Unplug : Serial 1
+2022-05-13 18:37:49.837 ++ Suspended
+2022-05-13 19:37:48.523 ++ Resumed
+2022-05-13 19:37:48.523 -- Bus Plugin : Serial 1
+2022-05-13 20:15:49.264 -- Bus Unplug : Serial 1
+2022-05-13 20:15:49.264 ++ Suspended
+2022-05-14 00:20:18.491 ++ Resumed
+2022-05-14 00:20:18.491 -- Bus Plugin : Serial 1
+2022-05-14 02:01:40.695 -- Bus Unplug : Serial 1
+2022-05-14 02:01:40.695 ++ Suspended
+2022-05-14 10:05:19.404 ++ Resumed
+2022-05-14 10:05:19.404 -- Bus Plugin : Serial 1
+2022-05-14 14:23:49.751 -- Bus Unplug : Serial 1
+2022-05-14 14:23:49.751 ++ Suspended
+2022-05-14 15:40:06.432 ++ Resumed
+2022-05-14 15:40:06.433 -- Bus Plugin : Serial 1
+2022-05-14 17:03:06.023 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:03:06.023 -- DS3 Arrival Event
+2022-05-14 17:03:06.025 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-14 17:03:06.025 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-14 17:03:06.027 -- USB Device : HID_Worker_Thread Starting
+2022-05-14 17:03:06.027 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-14 17:25:51.767 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:25:51.768 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-14 17:25:51.769 -- USB Device : HID_Worker_Thread Exiting
+2022-05-14 17:25:55.519 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:25:55.520 -- DS3 Arrival Event
+2022-05-14 17:25:55.521 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-14 17:25:55.522 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-14 17:25:55.522 -- USB Device : HID_Worker_Thread Starting
+2022-05-14 17:25:55.522 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-14 17:25:55.889 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:25:55.890 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-14 17:25:55.890 -- USB Device : HID_Worker_Thread Exiting
+2022-05-14 17:25:56.302 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:25:56.303 -- DS3 Arrival Event
+2022-05-14 17:25:56.304 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-14 17:25:56.304 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-14 17:25:56.305 -- USB Device : HID_Worker_Thread Starting
+2022-05-14 17:25:56.305 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-14 17:41:46.080 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:41:46.081 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-14 17:41:46.082 -- USB Device : HID_Worker_Thread Exiting
+2022-05-14 17:49:01.768 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 17:49:01.769 -- DS3 Arrival Event
+2022-05-14 17:49:01.771 -- Device Arrival [09:E4:59:9F:63:25]
+2022-05-14 17:49:01.771 ++ Plugin Port #1 for [09:E4:59:9F:63:25]
+2022-05-14 17:49:01.772 -- Started Device Instance [USB\VID_054C&PID_0268\5&144DF3AA&0&1] Local [09:E4:59:9F:63:25] Remote [A2:5A:5A:A0:09:0D]
+2022-05-14 17:49:01.773 -- USB Device : HID_Worker_Thread Starting
+2022-05-14 18:32:11.806 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&144DF3AA&0&1#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2022-05-14 18:32:11.808 -- Device Removal [09:E4:59:9F:63:25]
+2022-05-14 18:32:11.809 -- USB Device : HID_Worker_Thread Exiting
+2022-05-14 19:12:15.770 -- Bus Unplug : Serial 1
+2022-05-14 19:12:15.770 ++ Suspended
+2022-05-14 21:31:46.393 ++ Resumed
+2022-05-14 21:31:46.394 -- Bus Plugin : Serial 1
+2022-05-14 21:42:20.777 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
